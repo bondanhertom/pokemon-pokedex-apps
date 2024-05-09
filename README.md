@@ -1,1 +1,1 @@
-# pokemon-pokedex
+# pokemon-pokedex app
